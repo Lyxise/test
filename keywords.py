@@ -83,6 +83,7 @@ usernameKeywords = {
     "yk what": 140,
     "snwbun": 200,
     "toy": 15,
+    "trading": 120,
 }
 
 descriptionKeywords = {
@@ -227,7 +228,8 @@ descriptionKeywords = {
     " condo ": 200,
     "blue app": {"value": 140, "reason": "DESCRIPTION CONTAINS DISCORD REFERENCE"},
     " frp": 200,
-
+    "trading": 80,
+    "\U0001F47B": {"value": 140, "reason": "DESCRIPTION CONTAINS SNAPCHAT REFERENCE"},
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
@@ -292,4 +294,5 @@ displayNameKeywords = {
     "ykwhat": 140,
     "yk what": 140,
     "whit3chocolate": 200,
+    "trading": 120,
 }
