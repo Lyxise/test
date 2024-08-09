@@ -85,6 +85,7 @@ usernameKeywords = {
     "toy": 15,
     "trading": 120,
     "snwbnny": 200,
+    "bnwo": 200,
 }
 
 descriptionKeywords = {
@@ -233,7 +234,12 @@ descriptionKeywords = {
     "\U0001F47B": {"value": 140, "reason": "DESCRIPTION CONTAINS SNAPCHAT REFERENCE"},
     "snwbnny": 200,
     "hmu": 35,
-    "hmu~": 140
+    "hmu~": 140,
+    " cord": {"value": 140, "reason": "DESCRIPTION CONTAINS DISCORD REFERENCE"},
+    "dscrd": {"value": 140, "reason": "DESCRIPTION CONTAINS SNAPCHAT REFERENCE"},
+    "bxll": 140,
+    "bnwo": 200,
+    " dom ": 120,
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
@@ -244,8 +250,8 @@ displayNameKeywords = {
     "breed": 150,
     "bbc": 120,
     "bwc": 140,
-    "bbl": 30, # low because of words like "bubble"
-    "_bbl": 200, # not this one though
+    "bbl": 30,
+    "_bbl": 200,
     "_bbc": 200,
     "_bwc": 200,
     " bbc": 200,
@@ -300,4 +306,5 @@ displayNameKeywords = {
     "whit3chocolate": 200,
     "trading": 120,
     "snwbnny": 200,
+    "bnwo": 200,
 }
