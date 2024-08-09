@@ -232,6 +232,8 @@ descriptionKeywords = {
     "trading": 80,
     "\U0001F47B": {"value": 140, "reason": "DESCRIPTION CONTAINS SNAPCHAT REFERENCE"},
     "snwbnny": 200,
+    "hmu": 35,
+    "hmu~": 140
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
