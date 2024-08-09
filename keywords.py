@@ -163,7 +163,7 @@ descriptionKeywords = {
     "seller": 80,
     "add back": 100,
     "char ": 80,
-    "char in studio": 120,
+    "char in studio": 200,
     "chubbies": 200,
     "chubby": 80,
     "\u2660": 200, # spade
@@ -208,14 +208,26 @@ descriptionKeywords = {
     "t0p": 200,
     "obedient": 80,
     "age rp": 200,
-    "bara": 140,
+    "bara": 120,
+    "bara men": 200,
     "fut-nari": 200,
     "(‿ˠ‿)": 200,
     "ageplay": 200,
     "age play": 200,
-    ".-": {"value": 100, "reason": "POSSIBLE MORSE CODE"}, # morse code is usually used to bypass things in user descriptions
-    ".-..": {"value": 200, "reason": "MORSE CODE"},
+   # ".-": {"value": 100, "reason": "POSSIBLE MORSE CODE"}, better morse code detection system coming soon hopefully
+   # ".-..": {"value": 200, "reason": "MORSE CODE"},
     "literate": 50,
+    "mdni": 100,
+    "bwreedable": 200,
+    "breedable": 200,
+    "breed": 150,
+    "experienced": 20,
+    "some fun": 130,
+    "femmie": 200,
+    " condo ": 200,
+    "blue app": {"value": 140, "reason": "DESCRIPTION CONTAINS DISCORD REFERENCE"},
+    " frp": 200,
+
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
@@ -232,6 +244,7 @@ displayNameKeywords = {
     "_bwc": 200,
     " bbc": 200,
     " bwc": 200,
+    " bbl": 180,
     "addme": 200,
     "add me": 170,
     "addfor": 170,
@@ -270,7 +283,7 @@ displayNameKeywords = {
     "heat": 100,
     "daddy": 170,
     "mommy": 170,
-    "some fun": 130,
+    "femmy": 200,
     "fun": 30,
     "yk": 40,
     "hung": 100,
@@ -278,4 +291,5 @@ displayNameKeywords = {
     "young": 30,
     "ykwhat": 140,
     "yk what": 140,
+    "whit3chocolate": 200,
 }
