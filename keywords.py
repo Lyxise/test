@@ -84,6 +84,7 @@ usernameKeywords = {
     "snwbun": 200,
     "toy": 15,
     "trading": 120,
+    "snwbnny": 200,
 }
 
 descriptionKeywords = {
@@ -230,6 +231,7 @@ descriptionKeywords = {
     " frp": 200,
     "trading": 80,
     "\U0001F47B": {"value": 140, "reason": "DESCRIPTION CONTAINS SNAPCHAT REFERENCE"},
+    "snwbnny": 200,
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
@@ -295,4 +297,5 @@ displayNameKeywords = {
     "yk what": 140,
     "whit3chocolate": 200,
     "trading": 120,
+    "snwbnny": 200,
 }
