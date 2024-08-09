@@ -240,6 +240,7 @@ descriptionKeywords = {
     "bxll": 140,
     "bnwo": 200,
     " dom ": 120,
+    "ykyk": 120,
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
@@ -307,4 +308,5 @@ displayNameKeywords = {
     "trading": 120,
     "snwbnny": 200,
     "bnwo": 200,
+    "ykyk": 200,
 }
