@@ -241,6 +241,8 @@ descriptionKeywords = {
     "bnwo": 200,
     " dom ": 120,
     "ykyk": 120,
+    "no limits": 140,
+    "you know why": 100,
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
@@ -309,4 +311,5 @@ displayNameKeywords = {
     "snwbnny": 200,
     "bnwo": 200,
     "ykyk": 200,
+    "meru": 130,
 }
