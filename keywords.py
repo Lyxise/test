@@ -86,6 +86,7 @@ usernameKeywords = {
     "trading": 120,
     "snwbnny": 200,
     "bnwo": 200,
+    "fwta": 200,
 }
 
 descriptionKeywords = {
@@ -244,7 +245,7 @@ descriptionKeywords = {
     "no limits": 140,
     "you know why": 100,
     "chat games": 200,
-
+    "fwta": 200,
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
@@ -314,4 +315,5 @@ displayNameKeywords = {
     "bnwo": 200,
     "ykyk": 200,
     "meru": 130,
+    "fwta": 200,
 }
