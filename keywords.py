@@ -243,6 +243,8 @@ descriptionKeywords = {
     "ykyk": 120,
     "no limits": 140,
     "you know why": 100,
+    "chat games": 200,
+
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
