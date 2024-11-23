@@ -87,6 +87,13 @@ usernameKeywords = {
     "snwbnny": 200,
     "bnwo": 200,
     "fwta": 200,
+    "buffalo": 140,
+    "bison": 140,
+    "curvy": 90,
+    "hmu": 80,
+    "pound": 140,
+    "pounding": 180,
+    "bunn": 60,
 }
 
 descriptionKeywords = {
@@ -246,6 +253,16 @@ descriptionKeywords = {
     "you know why": 100,
     "chat games": 200,
     "fwta": 200,
+    "older guys": 150,
+    "older men": 150,
+    "mami ": 50,
+    "curvy": 90,
+    "owner": 50,
+    "pound": 80,
+    "pounding": 100,
+    " tos ": 150,
+    " ds": {"value": 140, "reason": "DESCRIPTION CONTAINS DISCORD REFERENCE"},
+    "snap": {"value": 140, "reason": "DESCRIPTION CONTAINS SNAPCHAT REFERENCE"},
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
@@ -316,4 +333,11 @@ displayNameKeywords = {
     "ykyk": 200,
     "meru": 130,
     "fwta": 200,
+    "buffalo": 140,
+    "bison": 140,
+    "curvy": 90,
+    "hmu": 80,
+    "pound": 140,
+    "pounding": 180,
+    "bunn": 60,
 }
