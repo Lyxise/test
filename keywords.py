@@ -263,6 +263,7 @@ descriptionKeywords = {
     " tos ": 150,
     " ds": {"value": 140, "reason": "DESCRIPTION CONTAINS DISCORD REFERENCE"},
     "snap": {"value": 140, "reason": "DESCRIPTION CONTAINS SNAPCHAT REFERENCE"},
+    "\U0001F535": {"value": 140, "reason": "DESCRIPTION CONTAINS POSSIBLE DISCORD REFERENCE"},
 }
 displayNameKeywords = {
     "4sale": 150, # alright bud
